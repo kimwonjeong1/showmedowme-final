@@ -1,0 +1,11 @@
+@import "@/assets/css/components";
+
+.notice {
+  padding: $components-margin;
+  font-family: $main-font;
+  background-color: rgb(201, 225, 222);
+  border-radius: 2rem;
+  .btn-close {
+    margin-left: 190px;
+  }
+}

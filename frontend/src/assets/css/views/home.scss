@@ -1,0 +1,16 @@
+@import "@/assets/css/components";
+
+.homepage {
+  font-family: $main-font;
+  div {
+    margin: $components-margin;
+    .v-btn {
+      width: 60%;
+      cursor: pointer;
+    }
+  }
+}
+.info-btn {
+  margin: $components-margin;
+  margin-left: 85vw;
+}

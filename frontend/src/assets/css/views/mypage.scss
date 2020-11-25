@@ -1,0 +1,15 @@
+@import "@/assets/css/components";
+
+.mypage {
+  margin: $components-margin;
+  margin-bottom: 80px;
+  .mypage-update-button {
+    text-align: end;
+  }
+  .btn-logout {
+    text-align: end;
+    .col {
+      padding: 0px;
+    }
+  }
+}
